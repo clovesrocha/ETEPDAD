@@ -44,8 +44,7 @@ private void tsbBuscar_Click(object sender, EventArgs e)
              novo = false;
          }
          else
-             MessageBox.Show("Nenhum registro encontrado com o Id
-             informado!");
+             MessageBox.Show("Nenhum registro encontrado com o Id informado!");
 
      }
      catch (Exception ex)
